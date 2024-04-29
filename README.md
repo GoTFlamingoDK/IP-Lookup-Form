@@ -3,7 +3,7 @@
 <img src=https://i.imgur.com/ZizNgVY.png alt="logo" width= height= />
 
 <h1>IP Lookup Form in C#</h1>
-<h4> <span> · </span> <a href="https://github.com/GoTFlamingoDK /IP Lookup C# Form/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/GoTFlamingoDK /IP Lookup C# Form/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/GoTFlamingoDK /IP Lookup C# Form/issues"> Request Feature </a> </h4>
+<h4> <span> · </span> <a href="https://github.com/GoTFlamingoDK/IP-Lookup-Form/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/GoTFlamingoDK/IP-Lookup-Form/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/GoTFlamingoDK/IP-Lookup-Form/issues"> Request Feature </a> </h4>
 
 
 </div>
