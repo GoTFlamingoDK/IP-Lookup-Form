@@ -1,6 +1,7 @@
 <div align='center'>
 
-<img src=[https://i.imgur.com/ZizNgVY.png](https://i.imgur.com/ZizNgVY.png) alt="logo" width= height= />
+![ZizNgVY](https://github.com/GoTFlamingoDK/IP-Lookup-Form/assets/166833368/eda6697f-4207-48a4-947e-5d6a4cc9d119)
+
 
 <h1>IP Lookup Form in C#</h1>
 <h4> <span> · </span> <a href="https://github.com/GoTFlamingoDK/IP-Lookup-Form/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/GoTFlamingoDK/IP-Lookup-Form/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/GoTFlamingoDK/IP-Lookup-Form/issues"> Request Feature </a> </h4>
